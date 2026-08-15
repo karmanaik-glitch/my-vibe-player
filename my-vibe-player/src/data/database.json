@@ -1,0 +1,30 @@
+{
+  "tracks": [
+    {
+      "id": "song-1",
+      "title": "Song One",
+      "artist": "Artist Name",
+      "src": "/audio/song-1.mp3",
+      "cover": "/covers/album-art.jpg"
+    },
+    {
+      "id": "song-2",
+      "title": "Song Two",
+      "artist": "Artist Name",
+      "src": "/audio/song-2.mp3",
+      "cover": "/covers/album-art.jpg"
+    }
+  ],
+  "vibes": [
+    {
+      "id": "cyber-city",
+      "label": "Cyber City",
+      "src": "/videos/cyber-city.mp4"
+    },
+    {
+      "id": "rain-drive",
+      "label": "Rain Drive",
+      "src": "/videos/rain-drive.mp4"
+    }
+  ]
+}
